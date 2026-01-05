@@ -14,35 +14,27 @@ All figures support the quantitative findings reported in the technical paper.
 
 #### Model Training Workflow
 <!-- Paste Model Training image below -->
-![Model Training Workflow](images/model-training.png)
+<img width="406" height="287" alt="image" src="https://github.com/user-attachments/assets/eee1138d-d49b-4770-b658-4e04d27c4340" />
+
 
 #### Generator Architecture
 <!-- Paste Generator Code visualization below -->
-![Generator Architecture](images/generator-code.png)
+<img width="433" height="470" alt="image" src="https://github.com/user-attachments/assets/ad0c430d-8e90-4cf6-82cc-7e73b6b03cb5" />
 
-#### Discriminator / Critic Architecture
-<!-- Paste Discriminator Code visualization below -->
-![Discriminator Architecture](images/discriminator-code.png)
 
 ---
 
 ### Classification Performance (SVM)
-
-#### SVM Classification Report
-<!-- Paste SVM Classification Report below -->
-![SVM Classification Report](images/classification-report-svm.png)
+<img width="321" height="100" alt="Classification report SVM" src="https://github.com/user-attachments/assets/8d423ae7-3553-4465-97e3-7d450872eeba" />
 
 #### Confusion Matrix (SVM)
-<!-- Paste Confusion Matrix image below -->
-![Confusion Matrix - SVM](images/confusion-matrix-svm.png)
+<img width="8000" height="8000" alt="heatmap" src="https://github.com/user-attachments/assets/334f82a6-bc4d-4533-8b37-58dc506acdfb" />
 
 ---
 
 ### ROC & AUC Analysis
+<img width="431" height="305" alt="SVM AUC" src="https://github.com/user-attachments/assets/cf17ac98-0e88-4a22-b550-f397bfe2bd8f" />
 
-#### SVM ROC Curve
-<!-- Paste SVM AUC image below -->
-![SVM AUC Curve](images/svm-auc.png)
 
 #### Logistic Regression ROC Curve
 <!-- Paste LR AUC image below -->
@@ -51,22 +43,8 @@ All figures support the quantitative findings reported in the technical paper.
 ---
 
 ### Model Comparison
+<img width="526" height="323" alt="Accuracy Bar Charts" src="https://github.com/user-attachments/assets/c7a4610a-3972-4037-b5b2-0f043fa65343" />
 
-#### Accuracy Comparison Across Models
-<!-- Paste Accuracy Bar Chart below -->
-![Accuracy Bar Chart](images/accuracy-bar-chart.png)
-
-#### AUC Comparison Across Models
-<!-- Paste AUC Bar Chart below -->
-![AUC Bar Chart](images/auc-bar-chart.png)
-
----
-
-### Feature & Distribution Analysis
-
-#### Correlation Heatmap
-<!-- Paste Heatmap below -->
-![Feature Correlation Heatmap](images/heatmap.png)
 
 ---
 

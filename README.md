@@ -35,18 +35,13 @@ All figures support the quantitative findings reported in the technical paper.
 ### ROC & AUC Analysis
 <img width="431" height="305" alt="SVM AUC" src="https://github.com/user-attachments/assets/cf17ac98-0e88-4a22-b550-f397bfe2bd8f" />
 
-
-#### Logistic Regression ROC Curve
-<!-- Paste LR AUC image below -->
-![Logistic Regression AUC Curve](images/lr-auc.png)
-
 ---
 
 ### Model Comparison
 ####  Using AUC
 <img width="633" height="382" alt="image" src="https://github.com/user-attachments/assets/c0cb9b5a-0cc0-4f0e-a3d1-70706a9f478f" />
 
-####  Classification report
+####  Classification Acuracy
 <img width="526" height="323" alt="Accuracy Bar Charts" src="https://github.com/user-attachments/assets/c7a4610a-3972-4037-b5b2-0f043fa65343" />
 
 
